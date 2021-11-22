@@ -1,13 +1,13 @@
-# Projektarbete
-Detta är ett projektarbete av årskusettelever på KTH 
+# Projectarbete
+A project done by a first year student at KTH
 
 # The Game
-Detta spel start man genom att först starta server
+To start the game, you first need to start a server by typing
 ```bash
 ./server
 ```
 
-Sedan starta två st instancer av theGame
+Then you start two instances of theGame
 
 ```bash
 ./theGame
